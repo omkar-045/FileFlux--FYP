@@ -24,3 +24,24 @@ Step 4: delete the App.css file
 
 Step 5: delete code of index.css and paste following code:
         @import "tailwindcss"
+
+
+# FileFlux – Secure File Sharing System
+
+FileFlux is a web-based secure file sharing platform developed as a Final Year Diploma Project.
+
+## Features
+- Secure file upload
+- User authentication
+- File management dashboard
+- Modern UI interface
+- Cloud-ready architecture
+
+## Tech Stack
+Frontend: React (Vite)  
+Backend: Node.js, Express  
+Database: Firebase / MongoDB  
+
+## Author
+Omkar Salunkhe  
+Diploma in Computer Engineering – Final Year Project
